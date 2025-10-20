@@ -9,11 +9,13 @@
 
 # **Инструкция по запуску**
 ## Клонирование репозитория
-git clone https://github.com/vv-v-v/cache_server.git
-cd redis_server
+git clone https://github.com/vv-v-v/internship-tasks
+
+cd task2
 
 ## Создание виртуального окружения
 python -m venv venv
+
 source venv/bin/activate
 
 ## Запуск тестов
